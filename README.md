@@ -1,2 +1,2 @@
-# spotify-playlist
-Clone interface do Spotify para acesso de apenas uma playlist.
+# Spotify Billie Eilish Playlist
+Clone interface do Spotify, apenas uma das minhas playlists selecionadas, utilizando ReactJS, consumo API do Spotify com Axios.
